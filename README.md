@@ -138,7 +138,7 @@ class Aditya(SoftwareEngineer):
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/UND1SPUTED/UND1SPUTED/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/UND1SPUTED/UND1SPUTED/output/github-contribution-grid-snake-dark.svg)
 
 ---
 

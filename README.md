@@ -5,9 +5,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Sholapurkar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20%26%20Prompt%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18)
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Building+Scalable+AI+%26+LLM-Powered+Systems+%F0%9F%A4%96;M.S.+Computer+Science+%40+Purdue+University+%F0%9F%8E%93;Open+to+SWE+%7C+AI+%7C+Full-Stack+Roles+in+2026+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Building+Scalable+AI+%26+LLM-Powered+Systems+%F0%9F%A4%96;M.S.+Computer+Science+%40+Purdue+University+%F0%9F%8E%93;Open+to+SWE+%7C+AI+%7C+Full-Stack+Roles+in+2026+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -141,8 +140,8 @@ class Aditya(SoftwareEngineer):
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UND1SPUTED&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UND1SPUTED&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UND1SPUTED&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UND1SPUTED&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff)
 
 </div>
 

@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Sholapurkar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20%26%20Prompt%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Sholapurkar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20%26%20Prompt%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18)
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -198,6 +199,6 @@ class Aditya(SoftwareEngineer):
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
 
 </div>

@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Sholapurkar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20%26%20Prompt%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Sholapurkar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20and%20Prompt%20Engineer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Building+Scalable+AI+%26+LLM-Powered+Systems+%F0%9F%A4%96;M.S.+Computer+Science+%40+Purdue+University+%F0%9F%8E%93;Open+to+SWE+%7C+AI+%7C+Full-Stack+Roles+in+2026+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Building+Scalable+AI+and+LLM-Powered+Systems+%F0%9F%A4%96;M.S.+Computer+Science+%40+Purdue+University+%F0%9F%8E%93;Open+to+SWE+%7C+AI+%7C+Full-Stack+Roles+in+2026+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasholapurkar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aditya-sholapurkar.netlify.app/)
